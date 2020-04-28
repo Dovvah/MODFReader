@@ -1,0 +1,7 @@
+C:\Users\Tim\source\repos\MODFReader\MODFReader\bin\Debug\MODFReader.exe.config
+C:\Users\Tim\source\repos\MODFReader\MODFReader\bin\Debug\MODFReader.exe
+C:\Users\Tim\source\repos\MODFReader\MODFReader\bin\Debug\MODFReader.pdb
+C:\Users\Tim\source\repos\MODFReader\MODFReader\obj\Debug\MODFReader.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\MODFReader\MODFReader\obj\Debug\MODFReader.exe
+C:\Users\Tim\source\repos\MODFReader\MODFReader\obj\Debug\MODFReader.pdb
+C:\Users\Tim\source\repos\MODFReader\MODFReader\obj\Debug\MODFReader.csprojAssemblyReference.cache
